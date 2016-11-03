@@ -9,3 +9,8 @@ Work on Datanauts class
 >Block quotes!! 
 
 And regular text down here.
+
+###November 03
+
+Checking commits and changes
+
